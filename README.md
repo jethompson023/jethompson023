@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Data Visualation, Machine Learning, Data Analytics, and Artifical Intelligence 
 - 🤔 I’m looking for help with UI/UX Development, BI Dashboard Reporting
 - 💬 Ask me about Python for Industrial Applications
-- 📫 How to reach me: jeremiahthompson023@gmail.com or Connnect with me on LinkedIn 
+- 📫 How to reach me: jeremiahthompson023@gmail.com or Connect with me on LinkedIn 
 
 <!--
 Hello I'm Jeremiah
