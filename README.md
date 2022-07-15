@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Financial Engineering, Qualitative Research, & Algorithmic Trading with Python
 - 🤔 I’m looking for help with UI/UX Development, Machine Learning, & Artifical Intelligence
 - 💬 Ask me about Python for Industrial Applications
-- 📫 How to reach me: jeremiahthompson023@gmail.com or Connect with me on LinkedIn 
+- 📫 How to reach me: jeremiahethompson@gmail.com or Connect with me on LinkedIn 
 
 <!--
 Hello I'm Jeremiah
