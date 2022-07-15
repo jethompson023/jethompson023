@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Jeremiah Thompson
-- 🌱 I’m currently learning Data Visualation, Machine Learning, Data Analytics, and Artifical Intelligence 
-- 🤔 I’m looking for help with UI/UX Development, BI Dashboard Reporting
+- 🌱 I’m currently learning Financial Engineering, Qualitative Research, & Algorithmic Trading with Python
+- 🤔 I’m looking for help with UI/UX Development, Machine Learning, & Artifical Intelligence
 - 💬 Ask me about Python for Industrial Applications
 - 📫 How to reach me: jeremiahthompson023@gmail.com or Connect with me on LinkedIn 
 
